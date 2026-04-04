@@ -113,17 +113,18 @@ supply-chain-demand-forecasting-ML/
 
 |   ├── supplier_analysis.png
 
-│
 
 ├── sql/
 
 │   └── supply_chain_management.sql
 
-│
 
 ├── README.md
 
+├──Supply_Chain_Demand_Forecasting_Presentation.pdf
+
 ├── requirements.txt
+
 
 📊 Exploratory Data Analysis (EDA)
 
@@ -140,15 +141,19 @@ Key analysis performed:
 📊 Visual Results
 
 📈 Product-wise demand distribution
+
 ![Demand_Trend](screenshots/demand_trend.png)
 
 📈 Model Performance Comparison
+
 ![Model Comparison](screenshots/model_performance.png)
 
 📉 Shipping cost analysis by transport mode
+
 ![Shipping_cost](screenshots/shipping_cost.png)
 
 📊 Supplier performance comparison
+
 ![Supplier_analysis](screenshots/supplier_analysis.png)
 
 🔍 Key Insights
@@ -245,8 +250,7 @@ cd supply-chain-demand-forecasting
 
 📊 Dataset: data/supply_chain_data.csv
 
-
-📑 Presentation: Supply_Chain_Demand_Forecasting_PPT.pdf
+📑 Presentation: Supply_Chain_Demand_Forecasting_Presentation.pdf
 
 🧠 Skills Demonstrated
 
