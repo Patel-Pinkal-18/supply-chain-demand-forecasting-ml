@@ -1,4 +1,4 @@
-<img width="1032" height="550" alt="demand_trend" src="https://github.com/user-attachments/assets/775c195e-fe72-4395-acd5-85ab09248de0" /># supply-chain-demand-forecasting-ml
+# supply-chain-demand-forecasting-ml
 🚀 Supply Chain Demand Forecasting & Optimization
 
 End-to-End Machine Learning Project for Predicting Demand and Optimizing Supply Chain Decisions
