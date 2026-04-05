@@ -251,6 +251,10 @@ supply-chain-demand-forecasting-ML/
 
 This project demonstrates how machine learning can transform raw supply chain data into actionable insights and accurate demand forecasts. It highlights the importance of data-driven strategies in improving efficiency, reducing costs, and enhancing decision-making in modern supply chain systems.
 
+## 👨‍💻 Author
+**Pinkal Patel**  
+🎓 B.Tech IT | 📊 Data Analytics & Machine Learning Enthusiast 
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone Repository
